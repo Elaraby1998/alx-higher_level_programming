@@ -1,1 +1,0 @@
-This directory 🥇 contains introductory task to python.
